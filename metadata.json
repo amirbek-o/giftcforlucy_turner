@@ -1,0 +1,6 @@
+{
+  "name": "For Professor Lucy Turner — Babson Summer Study Gratitude",
+  "description": "An interactive Fernwood Equestrian & Editorial scrollytelling gratitude website for Professor Lucy Turner at Babson College, crafted by Amirbek (Amir) Orifjonov.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
